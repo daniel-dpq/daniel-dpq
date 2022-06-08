@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @daniel-dpq
-- 🌱 I’m currently a PhD student in HkUST from Prof. Gao's group.
-- 👀 My research interest focuses on solving chemical and biological problems via machine learning methods.
+
 - 📫 Welcome for any contacts: puqingd@gmail.com
 
 <!---
